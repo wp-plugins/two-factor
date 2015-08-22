@@ -4,7 +4,7 @@
  * Plugin URI: http://github.com/georgestephanis/two-factor/
  * Description: A prototype extensible core to enable Two-Factor Authentication.
  * Author: George Stephanis
- * Version: 0.1-dev-20150821
+ * Version: 0.1-dev-20150822
  * Author URI: http://stephanis.info
  */
 
